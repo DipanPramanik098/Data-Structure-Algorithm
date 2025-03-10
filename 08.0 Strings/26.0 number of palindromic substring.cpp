@@ -2,6 +2,7 @@
 #include<iostream>
 using namespace std;
 //~: Dipan Pramanik :~
+// leetcode 647
 class Solution {
     public:
     int expandIndex( string s, int i , int j){
